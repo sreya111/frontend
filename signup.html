@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sign Up</title>
+	<link rel="stylesheet" type="text/css" href="payment.css">
+	<style>
+	a{
+			text-decoration: none;
+			color: blue;
+		}
+	</style>
+	
+</head>
+<body>
+<form name="myform" onsubmit="return valid()" action="login.html"> 
+	<center>
+	<table>
+		<tr>
+			<th>Name:</th>
+			<th ><input type="text" name="n1" pattern="[a-zA-Z ]{3,}" title="name must be in alphabates" required></th>
+		</tr> 
+               
+		<tr>
+			<th>EMail/Mobile&nbsp;Number:</th>
+			<th><input type="text" name="n2"></th>
+		</tr>
+                <tr>
+                         <th>Please choose your gender:</th>
+                                            <th> <input type="radio" name="gender"/>Male
+		                             <input type="radio" name="gender"/>Female<br> </th>
+                </tr>
+                <tr>
+		          <th>Select your country:</th><th><select name="cntry">
+                                    <option value="default">please select</option>
+									<option value="Ind">India</option>
+									<option value="Aus">Australia</option>
+                                                                        <option value="US">US</option>
+                                                                        <option value="Eng">England</option>
+                                                                        <option value="Fra">France</option>
+								</select><br></th>
+                </tr>
+		<tr>
+			<th>Password:</th>
+			<th><input type="Password" name="p" pattern="[a-zA-Z0-9]{6,}" title="password minimum 6 digits" required></th>
+		</tr>
+		<tr>
+			<th>Confirm&nbsp;Password:</th>
+			<th><input type="Password" name="cp" required></th>
+		</tr>
+		<tr>
+			<td><center><a href="login.html">I have an account</a></center></td>
+		</tr>
+		<tr>
+			<th><input type="submit" value="Register" ></th>
+		</tr>
+		
+	</table>
+	</center>
+</form>
+<script type="text/javascript" src="js\valid.js"></script>
+
+</body>
+</html>

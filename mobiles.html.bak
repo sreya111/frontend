@@ -1,0 +1,139 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+		<link rel="stylesheet" type="text/css" href="bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="project6.css">
+</head>
+<body>
+	<table border="0" width="100%" bgcolor="#2874F0">
+		<tr>
+			<td><img src="D:\cchanduh's HTML\project\cards\logo.png" align="right" height="50"></td>
+            <td><input type="text" size="50" placeholder="Search for products,brands and more"></td>
+            <th><a href="citycart.html"><font color="white">Home</font></a></th>
+            <th><font color="white">Login & Signup</font></th>
+            <th><font color="white">Cart</font></th>
+        </tr>
+    </table>
+    <table border="0" width="100%" bgcolor="white" height="8%">
+    	<tr>
+    		<th width="12.5%"><a href="electronics.html">Electronics</a></th>
+    		<th width="12.5%"><a href="#">TV & Appliances</a></th>
+    		<th width="12.5%"><a href="mobiles.html">Mobiles</a></th>
+    		<th width="12.5%"><a href="food6.html">Food</a></th>
+    		<th width="12.5%"><a href="#">Earphones</a></th>
+    		<th width="12.5%"><a href="#">Home & Furniture</a></th>
+    		<th width="12.5%"><a href="#">Books & magazines</a></th>
+    		<th width="12.5%"><a href="#">Offer Zone</a></th>
+    	</tr>
+    </table>
+
+
+    <img src="banner6.jpg" width="100%" height="46%">
+    <br><br>
+
+    <h2>Mobiles</h2>
+    <div  class="row container-fluid " id="m">
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th.jpg" width="300" height="250">
+			<div class="caption"><p>Realme narzo 20Pro</p><ul><li>MRP-15,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a>
+			</div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (14).jpg" width="300" height="250">
+			<div class="caption"><p>Oneplus 7</p><ul><li>MRP-20,000/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div id="s"  class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (15).jpg" width="300" height="250">
+			<div class="caption"><p>Oneplus 7</p><ul><li>MRP-25,000/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div id="s"  class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (16).jpg" width="300" height="250">
+			<div class="caption"><p>Oneplus 3</p><ul><li>MRP-20,000/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+
+	</div>
+<div  class="row container-fluid ">
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (1).jpg" width="300" height="250">
+			<div class="caption"><p>Realme 3 <ul><li>MRP-7,990/-</li></ul></p><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a>
+			</div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (2).jpg" width="300" height="250">
+			<div class="caption"><p>Real me 6</p><ul><li>MRP-13,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (3).jpg" width="300" height="250">
+			<div class="caption"><p>Realme</p><ul><li>MRP-20,000/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (4).jpg" width="300" height="250">
+			<div class="caption"><p>Realme gt </p><ul><li>MRP-23,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+
+	</div>
+
+<div  class="row container-fluid ">
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (5).jpg" width="300" height="250">
+			<div class="caption"><p>Realme 2<ul><li>MRP-7,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></p>
+			</div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (7).jpg" width="300" height="250">
+			<div class="caption"><p>Realme 8</p><ul><li>MRP-14,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (9).jpg" width="300" height="250">
+			<div class="caption"><p>I PHONE 12</p><ul><li>MRP-80,000/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (8).jpg" width="300" height="250">
+			<div class="caption"><p> Realme 7Pro</p><ul><li>MRP-19,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+
+	</div>
+	
+	<div  class="row container-fluid ">
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (10).jpg" width="300" height="250">
+			<div class="caption"><p>i PHONE 13<ul><li>MRP-1,10,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></p>
+			</div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (11).jpg" width="300" height="250">
+			<div class="caption"><p>i PHONE SE</p><ul><li>MRP-76,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/iphone.jpg" width="300" height="250">
+			<div class="caption"><p>I PHONE 13pro</p><ul><li>MRP-1,80,999/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (18).jpg" width="300" height="250">
+			<div class="caption"><p>VIVO V20</p><ul><li>MRP-17.990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+	<div  class="row container-fluid ">
+		<div id="s"  class="img-thumbnail col-sm-3">
+			<img  src="mobiles/th (19).jpg" width="300" height="250">
+			<div class="caption"><p>VIVO Y12</p><ul><li>MRP-14,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (20).jpg" width="300" height="250">
+			<div class="caption"><p>VIVO V23</p><ul><li>MRP-39,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (21).jpg" width="300" height="250">
+			<div class="caption"><p>VIVO X3</p><ul><li>MRP-25,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+		<div  id="s" class="img-thumbnail col-sm-3">
+			<img src="mobiles/th (12).jpg" width="300" height="250">
+			<div class="caption"><p>Oneplus 7Pro</p><ul><li>MRP-22,990/-</li></ul><a href="delievery.html"><button>BUY NOW</button>&nbsp;&nbsp;&nbsp;<button>ADD TO CART</button></a></div>
+		</div>
+	</div>
+<footer><p align="center">Copyrights@506</p></footer>		
+
+<script type="text/javascript" src="bootstrap.js"></script>
+</body>
+</html>

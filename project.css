@@ -1,0 +1,12 @@
+        a{
+			text-decoration: none;
+			color: black;
+		}
+		body{
+			background: #F1F3F6;
+		}
+		li{
+			list-style: none;
+			text-align: right;
+		}
+		

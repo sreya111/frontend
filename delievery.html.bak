@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> delivery</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="payment.css">
+	<link rel="stylesheet" type="text/css" href="delivery.css">
+
+</head>
+<body>
+
+<form name="myform" onsubmit="return valid()" action="payment.html"> 
+<center>
+<table>
+<tr>
+<th>Name:</th>
+<th ><input type="text" name="n1" pattern="[a-zA-Z ]{3,}" title="name must be in alphabates" required></th>
+</tr>    
+<tr>
+<th>Email:</th>
+<th><input type="email" name="n2"></th>
+</tr>
+<tr>
+<th>Adress:</th>
+<th><input type="adress" name="n3" required></th>
+</tr>
+<tr>
+<th>Mobile Number: </th>
+<th><input type="mobilenumber" name="m" required></th>
+</tr>
+<th>PIN CODE: </th>
+<th><input type="PIN" name="p"pattern="[0-9]{4,}" title="PIN must be in numbers"></th>
+</tr>
+<th>CITY: </th>
+<th><input type="text" name="c" pattern="[a-zA-Z ]{2,}"required></th>
+</tr>
+<tr>
+<th>VILLAGE:</th>
+<th><input type="text" name="v" pattern="[a-zA-Z ]{2,}"required></th>
+</tr>
+<tr>
+<th><input type="submit" value="CONTINUE"></th>
+
+</tr>
+
+</table>
+</center>
+
+
+
+	</form>
+
+<script type="text/javascript" src="valid.js"></script>
+
+
+</body>
+</html>
